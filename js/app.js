@@ -88,6 +88,7 @@ function sendForm(){
     });
 }
 
+// VALIDATE SEARCH OF THE INPUT
 function validateSearch(){
    if(inputFooter.value.length > 0){
       swal(
