@@ -5,6 +5,6 @@ Página web del proyecto final del bootcamp web, puedes ver el código del proye
 
 # Tecnologias utlizadas 
 
-1.HTML 
-2.CSS y BOOTSTRAP
-3.JS
+1. HTML 
+2. CSS y BOOTSTRAP
+3. JS
